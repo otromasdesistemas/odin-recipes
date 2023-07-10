@@ -1,0 +1,18 @@
+* {
+    background-color: lightgrey;
+    text-align: center;
+}
+
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+ul > li > a {
+    color: rgb(255, 0, 200);
+    text-decoration: underline;
+    list-style: none;
+}
+
+ul {
+    list-style: none;
+}

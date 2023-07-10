@@ -1,0 +1,33 @@
+* {
+    background-color: aliceblue;
+}
+
+.header {
+    text-align: center;
+}
+
+.header h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.header h2{
+    text-decoration: underline;
+}
+
+
+.ingredients h2{
+    text-decoration: underline;
+}
+
+.ingredients ul{
+    color: rgb(255, 140, 0);
+}
+
+.directions h3 {
+    text-decoration: underline;
+    text-align: center;
+}
+
+.directions {
+    font-size: 20px;
+}
